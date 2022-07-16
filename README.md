@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chronaxis
 - 👀 I’m interested in creating apps/games and competitive programming. Currently, I'm working on a top-down zombie shooter in Roblox.
-- 🌱 I’m currently learning XCode 
+- 🌱 I’m currently learning XCode for a COOP and Lua
 - 📫 Email: chronaxis777@gmail.com
 
 <!---
